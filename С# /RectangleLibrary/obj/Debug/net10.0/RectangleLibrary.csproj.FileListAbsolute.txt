@@ -1,0 +1,12 @@
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/bin/Debug/net10.0/RectangleLibrary.deps.json
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/bin/Debug/net10.0/RectangleLibrary.dll
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/bin/Debug/net10.0/RectangleLibrary.pdb
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/RectangleLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/RectangleLibrary.AssemblyInfoInputs.cache
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/RectangleLibrary.AssemblyInfo.cs
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/RectangleLibrary.csproj.CoreCompileInputs.cache
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/RectangleLibrary.sourcelink.json
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/RectangleLibrary.dll
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/refint/RectangleLibrary.dll
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/RectangleLibrary.pdb
+/Users/elizavetarevun/Desktop/С# — копия/RectangleLibrary/obj/Debug/net10.0/ref/RectangleLibrary.dll
